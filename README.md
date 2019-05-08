@@ -6,7 +6,7 @@ you'll miss something and come off heartless.
 
 Nobody wants that!
 
-That's where the *Thoughts and Prayers* - or TP - service comes in!
+That's where the **Thoughts and Prayers** - or *TP* - service comes in!
 
 ## What It Does
 Using state of the art block chain-based machine learning microservices, TP will scour news feeds and generate 
